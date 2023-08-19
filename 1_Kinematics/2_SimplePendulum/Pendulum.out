@@ -1,0 +1,3 @@
+# Enter l: # Enter theta0: # Enter time t0, tf, dt: l = 1.000000 	 theta0 = 0.314000
+t0 = 0.000000 	 tf  = 20.000000 	 dt = 0.010000
+# Omega = 3.132092T = 2.006066
