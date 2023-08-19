@@ -1,0 +1,3 @@
+# Enter v0 and theta(in degrees): # Enter tf and dt: v0 = 10.000000 	 theta = 45.000000 degrees
+t0 = 0.000000 	 tf  = 1.441600 	 dt = 0.001000
+v0x = 7.071069 	 v0y = 7.071066

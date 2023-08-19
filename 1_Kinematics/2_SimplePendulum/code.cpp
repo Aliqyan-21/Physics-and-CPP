@@ -1,4 +1,4 @@
-// **** Motion In A Plane ****
+// **** Motion of a Suspended Pendulum ****
 
 #include <iostream>
 #include <string>
