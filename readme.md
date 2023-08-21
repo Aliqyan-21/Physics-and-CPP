@@ -8,4 +8,6 @@ Experimenting with c++ to perform physical mathematics and have fun with differe
 
 * Every equation folder have its graphs in pdf form that you can study easily
 
-Work in Progress \[20/08/23\]...
+* You can find the Gnuplot commands to plot the graphs in the respective run.sh file
+
+Work in Progress \[21/08/23\]...
