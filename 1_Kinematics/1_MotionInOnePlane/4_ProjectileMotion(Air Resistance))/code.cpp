@@ -1,5 +1,4 @@
 // **** Motion of a projectile near Earth's Surface ****
-
 // **** Considering Air Resistance of type F = -mkv ****
 
 #include <iostream>
