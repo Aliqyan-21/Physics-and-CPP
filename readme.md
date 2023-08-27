@@ -10,4 +10,6 @@ Experimenting with c++ to perform physical mathematics and have fun with differe
 
 * You can find the Gnuplot commands to plot the graphs in the respective run.sh file
 
-Work in Progress \[27/08/23\]...
+Work in Progress... 
+
+Last Updated - \[27/08/23\]
