@@ -8,9 +8,9 @@ g++ code.cpp -o code
 
 # gnuplot commands
 
-set size square
-f(x) = r*x*(1.0-x)
-r = 3.3
+# set size square
+# f(x) = r*x*(1.0-x)
+# r = 3.3
 
-plot "trj.dat" u 2:3 w l
-replot f(x), f(f(x)), x
+# plot "trj.dat" u 2:3 w l
+# replot f(x), f(f(x)), x
